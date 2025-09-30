@@ -1,2 +1,2 @@
 # rock-paper-scissor
-for practice
+Author-Mamidala Pavan Kumar
